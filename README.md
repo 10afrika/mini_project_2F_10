@@ -33,6 +33,10 @@ The project is structured as follows:
 
 4. Open http://localhost:3000 to view it in your browser.
 
+**Things to Note**
+
+- The site is responsive in desktop and tablet situations. It is also reasonably responsive in mobile but some components might not be due to some graphic images used to implement those components. 
+
 
 
 
