@@ -27,7 +27,7 @@ function NavBar() {
                     <ion-icon name={open ? 'close' : 'menu'}></ion-icon>
                 </div>
 
-                <ul className={`md:flex md:items-center gap-7 md:pb-0 pb-12 absolute md:static bg-white md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 mr-20 transition-all duration-500 ease-in ${open ? 'top-20 ' : 'top-[-490px]'}`}>
+                <ul className={`md:flex md:items-center gap-7 md:pb-0 pb-12 absolute md:static bg-white md:z-auto z-[10] left-0 w-full md:w-auto md:pl-0 pl-9 mr-20 transition-all duration-500 ease-in ${open ? 'top-20 ' : 'top-[-490px]'}`}>
                     {
                         Links.map((link) => (
                             <li key={link.name} className=' text-[14px] md:my-0 my-7 font-semibold mx-4'>

@@ -14,7 +14,7 @@ The project is structured as follows:
 - The Button component which contains the code for the buttons that are used throughout the web page.
 3. The assets folder contains the images folder to hold any images used in the application. 
 4. The App.js file under the src folder is the file for App Component. App Component is the main component in React which acts as a container for all other components. The index.js file is responsible for rendering the App Component.
-
+5. The public folder contains the wireframes for the project. 
 
 **Libraries Used** 
 

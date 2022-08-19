@@ -26,7 +26,7 @@ function Hero() {
                         </div>
                         <div className='flex mb-5 shadow-md rounded-md bg-transparent items-center'>
                             <div className='rounded-md bg-white flex items-center justify-center w-15 h-15 mt-1 ml-7'>
-                                <img className=" rounded-full w-10 h-10 pt-1" src={require('../assets/images/main-logo.png')} alt="" />
+                                <img className=" rounded-full w-10 h-10 pt-1" src={require('../assets/images/card-image-1.PNG')} alt="" />
                             </div>
                             <div className="flex flex-col px-5 py-1">
                                 <h3 className="font-bold text-md text-gray-800 font-sans">Marketing</h3>
@@ -35,7 +35,7 @@ function Hero() {
                         </div>
                         <div className='flex shadow-xs rounded-md bg-transparent items-center'>
                             <div className='rounded-md bg-white flex items-center justify-center w-15 h-15 mt-1 ml-7'>
-                                <img className=" rounded-full w-10 h-10 pt-1" src={require('../assets/images/main-logo.png')} alt="" />
+                                <img className=" rounded-full w-10 h-10 pt-1" src={require('../assets/images/card-image-2.PNG')} alt="" />
                             </div>
                             <div className="flex flex-col px-5 py-1">
                                 <h3 className="font-bold text-md text-gray-800 font-sans">Idia</h3>
@@ -60,7 +60,7 @@ function Hero() {
                     </div>
 
                 </div>
-                <div className="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 z-10">
+                <div className="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 ">
                     <img className='w-3/4 max-3/4' src={require("../assets/images/main-girl.png")} alt="" />
                 </div>
             </div>
