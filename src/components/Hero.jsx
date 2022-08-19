@@ -9,7 +9,7 @@ function Hero() {
         <section className="relative ml-20">
             <div className="container flex flex-col-reverse lg:flex-row items-center gap-12 mt-14 mx-auto lg:mt-20">
                 <div className='flex relative  flex-1 flex-col item-center   lg:items-start'>
-                    <img className='bg-pattern md:w-5/6 md:h-5/6' src={require('../assets/images/bg-pattern.png')} alt="" />
+                    <img className='bg-pattern md:w-5/6 md:h-5/6 sm:w-5/6 sm:h-5/6' src={require('../assets/images/bg-pattern.png')} alt="" />
                     <h1 className=" md:text-4 md:mt-4 sm:mt-4 lg:text-6xl text-center font-bold lg:text-left">Business</h1>
                     <h1 className=" md:text-4 md:mt-4 sm:mt-4 lg:text-6xl text-center font-bold relative lg:text-left mt-6 mb-10">Management      <img className='biz-vector' src={require('../assets/images/business-vector.png')} alt="" /></h1>
 
